@@ -1,0 +1,1 @@
+# xiaomi-redmi-note-10-kernel
